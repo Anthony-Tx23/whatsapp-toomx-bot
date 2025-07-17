@@ -1,0 +1,13 @@
+{
+  "name": "toomx-whatsapp-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "venom-bot": "^5.1.1",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
